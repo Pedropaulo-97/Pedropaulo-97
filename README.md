@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Front-end em transição de carreira
 
-Com uma trajetória de mais de 10 anos no setor de logística hospitalar (Ortocardio), estou migrando para a área de tecnologia. Trago comigo uma bagagem sólida em resolução de problemas complexos, trabalho sob pressão e foco total na experiência do usuário final.
+Com uma trajetória de mais de 10 anos na Ortocardio no setor de logística hospitalar (OPME), estou migrando para a área de tecnologia. Trago comigo uma bagagem sólida em resolução de problemas complexos, trabalho sob pressão e responsabilidade de alto impacto — competências que hoje aplico no desenvolvimento de software, mantendo o foco total na experiência do usuário final.
 
 ---
 
