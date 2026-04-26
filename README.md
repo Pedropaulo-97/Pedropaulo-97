@@ -7,7 +7,7 @@ Com uma trajetória de mais de 10 anos na Ortocardio no setor de logística hosp
 ---
 
 ### 🚀 O que estou estudando agora:
-- **Frontend:** ReactJS, JavaScript (ES6+), TypeScript, HTML5 e CSS3.
+- **Frontend:** NextJS, ReactJS, JavaScript (ES6+), TypeScript, HTML5 e CSS3.
 - **Backend:** Iniciando estudos em NodeJS e Supabase.
 - **Ferramentas:** Git, GitHub e APIs REST.
 
